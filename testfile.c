@@ -26,5 +26,6 @@ int main()
     printf("Having fun with git");
     printf("Do you like it");
     printf("This is the restored file from commit version 3");
+    printf("This version 6");
     return 0;
 }
