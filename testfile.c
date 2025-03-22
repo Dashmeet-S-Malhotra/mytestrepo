@@ -27,5 +27,6 @@ int main()
     printf("Do you like it");
     printf("This is the restored file from commit version 3");
     printf("This version 6");
+    printf("Hello");
     return 0;
 }
