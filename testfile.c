@@ -25,5 +25,7 @@ int main()
     }
     printf("Having fun with git");
     printf("Do you like it");
+    printf("This change is not be staged yet");
+    printf("Done the restore exercise now this file can be commited");
     return 0;
 }
