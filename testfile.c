@@ -23,6 +23,7 @@ int main()
     {
         printf("%d",a1[i]);
     }
-    
+    printf("Having fun with git");
+    printf("Do you like it");
     return 0;
 }
